@@ -1,0 +1,5 @@
+[clef:G4 keysignature:1f timesig:4/4]
+1 [4F8. 4F4 5C8. 5C4]
+2 [{5D8 5E8 5F8 5D8} 5C2]
+3 [4-B4 4-B4 4A4 4A4]
+4 [4G4 4G4 4F2]
