@@ -1,11 +1,8 @@
-# The easy way
-# print("Hello Edirom")
+# Write a program that prints the words "Hello Edirom" to the console.
+# Run it with `python exercises/ex1.py` in the terminal.
+# It must contain at least one function.
 
-# The better way
-def main():
-    print("Hello Edirom")
 
-# This code will run when you use `python ex1.py` on the command-line,
-# but it will not run when you import the file.
 if __name__ == "__main__":
-    main()
+    # Hint: Once you have defined a function, remove the pass statement and call the function here.
+    pass
